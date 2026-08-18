@@ -83,13 +83,12 @@ Important Cisco IOS verification commands include:
 ## Project Files
 
 - `packet-tracer/` - Cisco Packet Tracer topology
-- `documentation/` - Full network documentation
 - `configs/` - Device configurations
 - `screenshots/` - Configuration and connectivity evidence
 
 ## Author
 
-[Your Name]
+Patrick
 
 ## Disclaimer
 
